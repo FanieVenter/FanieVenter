@@ -22,7 +22,7 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ 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  }}
+          token: ${{ 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 }}
 
           # Options
           user: FanieVenter
