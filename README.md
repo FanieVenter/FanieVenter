@@ -46,9 +46,4 @@ An interactive, multi-page space education website tailored for students and edu
 
 ---
 
-## 📬 Let's Connect
-
-* **GitHub:** [@fanieventer](https://github.com/fanieventer)
-* **Location:** Whangaparāoa Peninsula, New Zealand 🌊
-
 > *"It works on my machine."* — and my machine runs Arch.
